@@ -1,5 +1,4 @@
 from cryptography.fernet import Fernet
-from datetime import datetime
 import os
 
 ##this key will be constant
